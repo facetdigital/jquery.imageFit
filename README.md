@@ -22,8 +22,8 @@ $(document).ready(function() {
 
 ## Author
 
-_Copyright &copy 2014 Facet Digital, LLC - http://facetdigital.com_
+_Copyright &copy; 2014 Facet Digital, LLC - http://facetdigital.com_
 
 ## License
 
-This code is licensed under the MIT License
+This code is licensed under the [MIT License](https://raw.githubusercontent.com/facetdigital/jquery.imageFit/master/MIT-LICENSE.txt)
